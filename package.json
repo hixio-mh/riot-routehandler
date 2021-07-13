@@ -48,7 +48,7 @@
     "coveralls": "^2.11.4",
     "istanbul": "^0.3.20",
     "jade": "^1.9.2",
-    "karma": "^0.13.9",
+    "karma": "^5.0.8",
     "karma-browserify": "^4.3.0",
     "karma-chai": "^0.1.0",
     "karma-coverage": "^0.5.0",
